@@ -164,29 +164,14 @@ Git/GitHub      █████████░ 85%
   - Google UX Design Certificate
   - React Advanced Patterns
 
----
 
-## 📮 Entre em Contato
 
-Estou sempre aberta a novas oportunidades, colaborações e bate-papos interessantes!
 
-<div align="center">
-
-📧 **Email:** [caroline@email.com](mailto:caroline@email.com)  
-💼 **LinkedIn:** [linkedin.com/in/caroline](https://linkedin.com)  
-🐙 **GitHub:** [github.com/carolineamancio](https://github.com)  
-𝕏 **Twitter:** [@caroline](https://twitter.com)  
-💬 **Discord:** Caroline#1234
 
 </div>
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença **MIT License**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 ## 🙏 Agradecimentos
 

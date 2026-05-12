@@ -2,13 +2,11 @@
 
 <div align="center">
 
-![Banner](https://via.placeholder.com/1200x300/667eea/ffffff?text=Caroline+Amancio)
+<img src="pet.png" width="100">
 
 ### 💻 Desenvolvedora Full Stack | 🎮 Entusiasta de Tecnologia | 🚀 Inovadora
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:caroline@email.com)
 
 ---
 

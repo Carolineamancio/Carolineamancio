@@ -181,8 +181,7 @@ Obrigada por visitar meu portfólio! Se tiver alguma dúvida ou sugestão, não 
 
 ⭐ Se você gostou, considere deixar uma estrela! ⭐
 
-![Footer](/pet.png)
-
+<img src="pet.png" width="300">
 </div>
 
 ---

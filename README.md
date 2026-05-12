@@ -177,11 +177,11 @@ Git/GitHub      █████████░ 85%
 
 Obrigada por visitar meu portfólio! Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. 
 
-<div align="center">
+<div align="center"> 
 
 ⭐ Se você gostou, considere deixar uma estrela! ⭐
 
-![Footer](https://via.placeholder.com/1200x100/667eea/ffffff?text=Vamos+Criar+Algo+Incrível+Juntos!)
+![Footer](/pet.png)
 
 </div>
 

@@ -4,7 +4,7 @@
 
 <img src="pet.png" width="100">
 
-### 💻 Desenvolvedora Full Stack | 🎮 Entusiasta de Tecnologia | 🚀 Inovadora
+### 💻 Game Director | 🎮 Game Developer | 🚀 Game Designer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com)
 

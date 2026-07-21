@@ -6,7 +6,9 @@
 
 ### 💻 Game Director | 🎮 Game Developer | 🚀 Game Designer
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com)
+<a href="https://github.com/Carolineamancio" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Follow%20me-GitHub-black?style=for-the-badge&logo=github" alt="Follow me on GitHub">
+</a>
 
 ---
 
